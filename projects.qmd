@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+## Efficient Audit Sample Selection
+
+Currently, I am writing my thesis about efficient audit sample selection. The goal is to develop a procedure that selects audit samples that are representative, but also efficient in terms of the effort that is needed to evaluate such a sample. Eventually, we aim to summarize the results of the study in a practical guideline for researchers.
+
+If you would like a more detailed overview of the project, feel free to read my [research report](docs/researchrep.pdf), that provides an introduction to the method and an overview of the current state of the project.

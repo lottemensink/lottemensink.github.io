@@ -1,0 +1,7 @@
+---
+title: "Curriculum Vitae"
+---
+
+View my CV [here](docs/CV.pdf)
+
+\

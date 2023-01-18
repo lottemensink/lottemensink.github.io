@@ -1,0 +1,27 @@
+---
+about:
+  template: jolla
+  image: images/pic.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/lottemensink
+    - icon: mail
+      text: Email
+      href: mailto:lottemensink1998@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lotte-mensink-5bb2b6197/
+---
+
+------------------------------------------------------------------------
+
+## Hi there!
+
+I'm Lotte. I am a Methodology and Statistics student at Utrecht University. I am currently writing my thesis, and soon I will be graduated. Besides studying, I teach statistics to Bachelor students, which is something I really like to do. Within the field of statistics, my interests are broad. These are some topics that I find particularly interesting:
+
+Structural Equation Modelling
+
+Causal Inference
+
+Administrative Data in Official Statistics

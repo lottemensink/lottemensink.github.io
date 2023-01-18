@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lotte Mensink",
+    "section": "",
+    "text": "Hi there!\nI’m Lotte. I am a Methodology and Statistics student at Utrecht University. I am currently writing my thesis, and soon I will be graduated. Besides studying, I teach statistics to Bachelor students, which is something I really like to do. Within the field of statistics, my interests are broad. These are some topics that I find particularly interesting:\nStructural Equation Modelling\nCausal Inference\nAdministrative Data in Official Statistics"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "View my CV here"
+  },
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "Lotte Mensink",
+    "section": "Hi there!",
+    "text": "Hi there!\nI’m Lotte. I am a Methodology and Statistics student at Utrecht University. I am currently writing my thesis, and soon I will be graduated. Besides studying, I teach statistics to Bachelor students, which is something I really like to do. Within the field of statistics, my interests are broad. These are some topics that I find particularly interesting:\nStructural Equation Modelling\nCausal Inference\nAdministrative Data in Official Statistics"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Currently, I am writing my thesis about efficient audit sample selection. The goal is to develop a procedure that selects audit samples that are representative, but also efficient in terms of the effort that is needed to evaluate such a sample. Eventually, we aim to summarize the results of the study in a practical guideline for researchers.\nIf you would like a more detailed overview of the project, feel free to read my research report, that provides an introduction to the method and an overview of the current state of the project."
+  }
+]
