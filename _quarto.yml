@@ -9,6 +9,8 @@ website:
         text: Home
       - about.qmd
       - projects.qmd
+  page-footer:
+    right: "Powered by [Quarto](https://quarto.org/)"
 format:
   html:
     theme: lux
